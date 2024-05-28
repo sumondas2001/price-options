@@ -1,0 +1,89 @@
+[
+     {
+          "id": "001",
+          "name": "Basic Membership",
+          "price": 29.99,
+          "features": [
+               "Access to gym facilities",
+               "Locker room access",
+               "Free Wi-Fi",
+               "One free fitness assessment",
+               "Unlimited fitness assessments",
+               "Access to group classes",
+               "Three guest passes per month"
+          ]
+     },
+     {
+          "id": "002",
+          "name": "Standard Membership",
+          "price": 49.99,
+          "features": [
+               "Access to gym facilities",
+               "Locker room access",
+               "Free Wi-Fi",
+               "Two free fitness assessments",
+               "Access to group classes",
+               "One guest pass per month"
+          ]
+     },
+     {
+          "id": "003",
+          "name": "Premium Membership",
+          "price": 79.99,
+          "features": [
+               "Access to gym facilities",
+               "Locker room access",
+               "Free Wi-Fi",
+               "Unlimited fitness assessments",
+               "Access to group classes",
+               "Three guest passes per month",
+               "Free towel service",
+               "Access to premium equipment",
+               "Discount on personal training sessions"
+          ]
+     },
+     {
+          "id": "004",
+          "name": "Family Membership",
+          "price": 119.99,
+          "features": [
+               "Locker room access",
+               "Free Wi-Fi",
+               "Access to group classes",
+               "Five guest passes per month",
+               "Free towel service",
+               "Access to premium equipment",
+               "Discount on personal training sessions",
+               "Family fitness programs"
+          ]
+     },
+     {
+          "id": "005",
+          "name": "Student Membership",
+          "price": 24.99,
+          "features": [
+               "Access to gym facilities",
+               "Locker room access",
+               "Free Wi-Fi",
+               "Two free fitness assessments",
+               "Access to group classes",
+               "One guest pass per month",
+               "Student-only fitness programs"
+          ]
+     },
+     {
+          "id": "006",
+          "name": "Senior Membership",
+          "price": 34.99,
+          "features": [
+               "Access to gym facilities",
+               "Locker room access",
+               "Free Wi-Fi",
+               "Unlimited fitness assessments",
+               "Access to group classes",
+               "Two guest passes per month",
+               "Senior wellness programs",
+               "Discount on personal training sessions"
+          ]
+     }
+]
