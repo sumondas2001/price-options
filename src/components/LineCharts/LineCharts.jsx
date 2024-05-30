@@ -12,7 +12,8 @@ const LineCharts = () => {
           { "student": "Student 8", "marks": 84 },
           { "student": "Student 9", "marks": 91 },
           { "student": "Student 10", "marks": 73 },
-          { "student": "Student 11", "marks": 100 }
+          { "student": "Student 11", "marks": 100 },
+          { "student": "Student 12", "marks": 10 }
      ]
 
      return (
